@@ -12,7 +12,7 @@ Time spent: **3** hours spent in total
 The following **required** functionality is completed:
 
 - [X] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [X] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge was making sure the Calendar was properly set up, as in the days and times would correspond with each other, and having an event on one day from 9-12 would show up normally. Besides that, setting up the props, css, and other features wasn't too challenging.
 
 ## License
 
