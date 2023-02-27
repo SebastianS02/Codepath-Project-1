@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://ezgif.com/video-to-gif/ezgif-2-a1561088d7.mov
-https://ezgif.com/save/ezgif-2-e41804e9f8.gif'/>
+<img src='https://im2.ezgif.com/tmp/ezgif-2-e41804e9f8.gif'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif 
