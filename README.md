@@ -2,7 +2,7 @@
 
 Submitted by: **Sebastian Stec**
 
-This web app: **Displays a schedule for the imaginary team Jaywalkers FC in calendar format. Each event on the calenday may have a name, location, color, 
+This web app: **Displays a schedule for the imaginary team Jaywalkers FC in calendar format. Each event on the calendar may have a name, location, color, 
 and if the specified event happens to be a match, a league may be associated with it. Each event also has its own designated time slot on the calendar.**
 
 Time spent: **3** hours spent in total
